@@ -24,8 +24,14 @@ _(don't add nice-to-haves to this list!)_
   - Contact details
   - Next of kin
   - Allergies
-  - Medications
-  - List of other medics involved in your care
+  - Medications 
+    - quick list (for excluding clashes/side effects)  
+    - regime (times, doses, strengths)
+  - List of other people involved in your care
+    - with contact details
+    - including specialists, school nurses, therapists etc
+  - Other notes
+    - free text section that we can use to inform next features
 5. Doc can save/delete shortcuts to profiles
 
 ### Tech spec basics 
