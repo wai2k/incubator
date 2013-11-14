@@ -33,7 +33,7 @@ _(don't add nice-to-haves to this list!)_
   - Other notes
     - free text section that we can use to inform next features
 5. Doc can save/delete shortcuts to profiles (but can _only_ view online)
-6. Users can store the profile's they own locally to view offline
+6. Users can store the profiles they own locally to view offline
 
 ### Tech spec basics 
 _(platforms, programming languages, infrastructure)_
