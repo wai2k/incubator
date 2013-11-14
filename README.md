@@ -1,7 +1,7 @@
 incubator
 =========
 
-A place for spawning and discussing ideas for sites/apps before diving in and building
+A place for spawning and discussing ideas for sites/apps related to [The Digital Doctor](http://thedigitaldoc.co.uk)'s mission, before diving in and building.
 
 ## Ok, exciting, what now?
 
