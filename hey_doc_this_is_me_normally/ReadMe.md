@@ -33,6 +33,7 @@ _(don't add nice-to-haves to this list!)_
   - Other notes
     - free text section that we can use to inform next features
 5. Doc can save/delete shortcuts to profiles
+6. Users can store a profile locally to view offline. (Has sync implications tbc).
 
 ### Tech spec basics 
 _(platforms, programming languages, infrastructure)_
