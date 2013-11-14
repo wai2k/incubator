@@ -5,14 +5,21 @@ Here's my password, look me up and in 30 - 60 seconds of video get a sense of wh
 
 Oh, and some of that annoying stuff like my NHS numbers, next of kin, allergies and a list of my other doctors.
 
-### Link to repo and/or website
-tbc
+#### Why?
 
-### Minimum viable implementation feature list _(don't add nice-to-haves to this list!)_
+When you meet a doctor or nurse, often you're acutely unwell, and you're just "not yourself".
+Giving medical staff a quick glimpse of what you're like when you're well is more powerful than anything you can describe.
+For older people, a video that shows doctors and nurses what they were like in mind, body _and spirit_ before this acute episode could be extra valuable.
+
+A video of 'me on a good day' is also a great way to help HCPs make a relationship with us that respects who we are beyond being a patient.
+
+### Minimum viable implementation feature list 
+_(don't add nice-to-haves to this list!)_
+
 1. 30-60 seconds of video (not about your health - it's a 'me on a good day' video)
 2. Ability to create and maintain a secure account
 3. Password-based access for an outsider to view your account
-4. Basic text information
+4. Basic text information (that you control)
   - NHS Number
   - Contact details
   - Next of kin
@@ -21,15 +28,22 @@ tbc
   - List of other medics involved in your care
 5. Doc can save/delete shortcuts to profiles
 
-### Tech spec basics (platforms, programming languages, infrastructure)
-web (for uploading, editing)
+### Tech spec basics 
+_(platforms, programming languages, infrastructure)_
+
+- web (for uploading, editing)
+- iPhone
+- Android
+- Dual develop in AS3 initially to get xPlatform prototype?
 
 ### Active contributors
-####users
-####build team
+####Users
+
+####Build team
   - Stray / [@betabetic](http://www.twitter.com/betabetic)
-  - 
-### Current top naming suggestions (useful as a sanity check for your minimum viable implementation)
+
+### Current top naming suggestions 
+_useful as a sanity check for your minimum viable implementation_
 
 ### TODO list of next-steps
 - technical
