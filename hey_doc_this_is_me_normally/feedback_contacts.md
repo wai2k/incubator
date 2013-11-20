@@ -8,5 +8,6 @@ People who've expressed interest/willingness to be consulted, or even be guinea 
 - Patricia Elliott: [@Trisha_the_doc](http://twitter.com/trisha_the_doc)
 - Dr SLS: [@DrSLJ](http://twitter.com/drslj)
 - Liz Crook: [@DocLC](http://twitter.com/doclc)
+- Wai Keong [@wai2k](http://twitter.com/wai2k)
 
 Let me know if you want adding/removing.
