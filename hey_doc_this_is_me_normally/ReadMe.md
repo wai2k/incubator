@@ -43,6 +43,11 @@ _(platforms, programming languages, infrastructure)_
 - Android
 - Dual develop in AS3 initially to get xPlatform prototype?
 
+### User Stories
+#### Doctor using an app (suggestion by @wai2k)
+
+Dr Smith sees Mrs Brown who is not feeling well. He wants to know more information about Mrs Brown. He takes out his phone, launches this app and photographs a QR code that is on Mrs Brown wallpaper on her phone. To use this app, he pre-registers his phone and confirms his identity using his nhs.net email account. He now gains access to Mrs Brown information. Mrs Brown and her nominated next of kin immediately get notified via SMS/ email of the identity of the person that has viewed her record. If this is not authorised, the QR code is reset and a new one is generated.
+
 ### Active contributors
 ####Users
 
