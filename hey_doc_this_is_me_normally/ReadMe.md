@@ -34,6 +34,9 @@ _(don't add nice-to-haves to this list!)_
     - free text section that we can use to inform next features
 5. Doc can save/delete shortcuts to profiles (but can _only_ view online)
 6. Users can store the profiles they own locally to view offline
+7. QR codes are generated for individual users for Drs to get instant access to their profiles.
+8. Usage by HCPs requires an nhs.net email account
+9. When your profile is accessed by an HCP, you receive an email to let you know.
 
 ### Tech spec basics 
 _(platforms, programming languages, infrastructure)_
